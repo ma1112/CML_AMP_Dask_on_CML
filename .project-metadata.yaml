@@ -1,4 +1,4 @@
-name: Distributed XGBoost with Dask on CML
+name: Arpad test Distributed XGBoost with Dask on CML
 description: >-
     Demonstrates a typical data science workflow for developing a credit card fraud
     application including how to train a distributed XGBoost model using Dask on CML workers.
